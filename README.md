@@ -1,4 +1,4 @@
-# Linux Learning — OverTheWire Bandit
+# Linux Learning — OverTheWire Bandit,
 
 ## Progress
 
